@@ -1,1 +1,42 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+
+.set-pTop_50{
+    padding-top: 50px;
+}
+.set-pTop_30{
+    padding-top: 30px;
+}
+.set-pTop_10{
+    padding-top: 10px;
+}
+.set-pBottom_50{
+    padding-bottom: 50px;
+}
+.set-pBottom_30{
+    padding-bottom: 30px;
+}
+.set-pBottom_10{
+    padding-bottom: 10px;
+}
+.set-mBottom_10{
+    margin-bottom: 10px;
+}
+.set-mBottom_30{
+    margin-bottom: 30px;
+}
+.set-mBottom_50{
+    margin-bottom: 50px;
+}
+.set-mTop_50{
+    margin-top: 50px;
+}
+.set-mTop_30{
+    margin-top: 30px;
+}
+.set-mTop_10{
+    margin-top: 10px;
+}    
