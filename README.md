@@ -1,12 +1,12 @@
 # TestWebim
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7.
+Сгенерированно с помощью Angular CLI версии 11.0.7.
 
-## Development server
+## Запуск сервера
 
-Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Выполнить команду `npm start` для запуска сервера. Перейти на `http://localhost:4200/`.
 
-## Build
+## Сборка
 
-Run `npm build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Выполнить `npm build` для сборки проекта. Для сборки в режиме продакшена добавить флаг `--prod` .
 
